@@ -1,0 +1,13 @@
+raw_feature,coefficient,odds_ratio,feature_group,feature_label,absolute_coefficient
+cat__product_GTX Plus Pro,0.12488417221315316,1.1330172105902483,product,Product = GTX Plus Pro,0.12488417221315316
+cat__product_MG Special,0.10057186622578858,1.105803108744436,product,Product = MG Special,0.10057186622578858
+cat__industry_Finance,-0.09213746424220239,0.9119797763192644,industry,Industry = Finance,0.09213746424220239
+cat__industry_Retail,0.08739037863894308,1.0913226256140138,industry,Industry = Retail,0.08739037863894308
+cat__product_series_GTX,0.08141350984929782,1.0848193873340668,product,Product = series_GTX,0.08141350984929782
+cat__industry_Marketing,0.0810522899177194,1.0844275997142077,industry,Industry = Marketing,0.0810522899177194
+cat__industry_Medical,0.0662484260461252,1.0684921254715072,industry,Industry = Medical,0.0662484260461252
+cat__industry_Employment,-0.06481361724755293,0.9372421328676408,industry,Industry = Employment,0.06481361724755293
+cat__industry_Services,0.06392451275113734,1.0660119254166833,industry,Industry = Services,0.06392451275113734
+cat__product_series_MG,0.05947141153624968,1.0612754203119592,product,Product = series_MG,0.05947141153624968
+cat__industry_Software,0.04761196918119732,1.0487636237515257,industry,Industry = Software,0.04761196918119732
+cat__industry_Telecommunications,-0.04554010705243584,0.9554812802656532,industry,Industry = Telecommunications,0.04554010705243584

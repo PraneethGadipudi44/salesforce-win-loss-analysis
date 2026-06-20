@@ -1,0 +1,6 @@
+- The holdout accuracy came in at 0.514 versus a closed-deal win baseline of 0.631. In other words, the public fields carry some signal, but not enough to beat a simple always-win guess on raw accuracy.
+- Industry mattered: Marketing led the closed-deal win table at 64.8%, while Finance trailed at 61.2%.
+- Product mix mattered too: MG Special posted the highest win rate at 64.8%, while GTK 500 was the weakest product in the closed-deal sample at 60.0%.
+- Region was a smaller but still visible factor. The West region had the best win rate at 63.9%, and the coefficient table also leans positive for that region.
+- The largest positive model coefficients point to Product = GTX Plus Pro, Product = MG Special, Industry = Retail.
+- The largest negative model coefficients point to Industry = Finance, Industry = Employment, Industry = Telecommunications.
